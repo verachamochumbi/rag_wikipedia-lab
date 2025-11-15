@@ -1,4 +1,4 @@
-# Multi-Agent Workflow vs. RAG Summarizer
+# 🧩 Multi-Agent Workflow vs. RAG Summarizer
 **1. Manejo de ambigüedad y contradicciones (Multi-Agent Workflow)**
 
 El enfoque multi-agente (Investigador → Redactor → Revisor) muestra un comportamiento más interpretativo.
@@ -27,6 +27,6 @@ El RAG es menos creativo, pero más confiable para respuestas basadas en hechos 
 | **Abiertas, interpretativas, ensayísticas**                      | **Multi-Agent** | Capacidad de síntesis, redacción extendida, razonamiento flexible.   |
 | **Factuales, específicas y basadas en conocimiento verificable** | **RAG**         | Recuperación directa de información documentada, mínima alucinación. |
 
-# Conclusión:
+# 🎯 Conclusión:
 - El Multi-Agent Workflow es ideal cuando se requiere creatividad, integración de múltiples fuentes o manejo de ideas difusas.
 - El RAG Summarizer es superior cuando la prioridad es precisión, verificación y trazabilidad de las fuentes.
