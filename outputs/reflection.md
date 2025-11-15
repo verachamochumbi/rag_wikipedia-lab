@@ -1,4 +1,4 @@
-# Multi-Agent Workflow vs. RAG Summarizer
+# 🧩 Multi-Agent Workflow vs. RAG Summarizer
 **1. Manejo de ambigüedad y contradicciones (Multi-Agent Workflow)**
 
 El enfoque multi-agente (Investigador → Redactor → Revisor) muestra un comportamiento más interpretativo.
