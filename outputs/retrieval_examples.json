@@ -1,1 +1,14 @@
-
+[
+  {
+    "query": "Explain federated learning in simple terms.",
+    "answer": "Federated learning aims at training a machine learning algorithm on multiple local datasets contained in local nodes without explicitly exchanging data samples. The general principle consists in training local models on local data samples and exchanging parameters between these local nodes at some frequency to generate a global model shared by all nodes. Its applications involve a variety of research areas including defence, telecommunications, the Internet of things, and pharmaceuticals."
+  },
+  {
+    "query": "What are the key privacy benefits of federated learning?",
+    "answer": "Federated learning (also known as collaborative learning) is a machine learning technique in a setting where multiple entities (often called clients) collaboratively train a model while keeping their data decentralized. Because client data is decentralized, data samples held by each client may not be independently and identically distributed. Federated learning is generally concerned with and motivated by issues such as data privacy, data minimization, and data access rights."
+  },
+  {
+    "query": "What are the main challenges of federated learning in healthcare?",
+    "answer": "Federated learning seeks to address the problem of data governance and privacy by training algorithms collaboratively without exchanging the data itself. The ability to train machine learning models at scale across multiple medical institutions without moving the data is a critical technology. A coalition from industry and academia has developed MedPerf, an open source platform that enables federated learning to be used in healthcare. The paper \"The Future of Digital Health with Federated Learning\" was published in September 2020 by Nature Digital Medicine."
+  }
+]

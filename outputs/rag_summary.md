@@ -1,1 +1,3 @@
+# RAG Summary: Federated Learning in Healthcare
 
+Federated learning seeks to address the problem of data governance and privacy by training algorithms collaboratively without exchanging the data itself. Federated learning algorithms can be applied to these problems as they do not disclose any sensitive data. A coalition from industry and academia has developed MedPerf, an open source platform that enables federated learning to be used across multiple medical institutions. In a paper published in Nature Medicine, they showcased the accuracy and generalizability of a federated AI model for the prediction of oxygen needs in patients with COVID-19 infections. In addition, FL also implemented for PM2.5 prediction to support Smart city sensing applications.
